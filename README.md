@@ -32,11 +32,19 @@ Two main analyses were performed:
 - Aggregated forecasted employment values by year
 - Visualized the overall trend using a **line chart**
 
+<img width="1662" height="928" alt="Screenshot 2026-01-03 193012" src="https://github.com/user-attachments/assets/fb2a111e-8d5d-450d-940f-c850b5643620" />
+
+
 ### 2. Industry Contribution Analysis
 - Broke down employment forecasts by industry and year
 - Used a **stacked column chart** to show how different industries contribute to total employment over time
 
+<img width="1635" height="951" alt="image" src="https://github.com/user-attachments/assets/690985e3-0bb8-4deb-966c-a15e24dba921" />
+
+
 ---
+
+
 
 ## Key Insights
 - Total forecasted employment increases steadily from **2018 to 2023**, peaking in **2023**, and declines through **2026**.
